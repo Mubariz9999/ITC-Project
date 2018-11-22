@@ -1,0 +1,8 @@
+Admin password: ali12345  (btw it is mentioned in the code :P )
+
+Mubariz's part ---> user info,deposit money and transfer to another account.
+Aqrab's part   ---> create account and withdraw money.
+Ali's part     ---> edit account,delete account and login menus.
+
+P.S: All the swag in this project's display(cursor movements,animations,loading bars) are combine effort 
+     of this trio.
